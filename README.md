@@ -1,4 +1,3 @@
-```markdown
 # 💎 Minecraft Server Finder (MSF)
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
